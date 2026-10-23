@@ -6,8 +6,6 @@
 - **Category**: Web / Fintech Protocols
 - **Difficulty**: Medium (175 Points)
 - **Flag Format**: `CHAKRAVYUHA{...}`
-- **Flag**: `CHAKRAVYUHA{s4pt4r4th4_cl34r1ng_st4t3_d3sync_x891b}`
-- **Estimated Solve Time**: 45–75 minutes
 - **Target Platform**: Docker / Linux Server / Vercel Serverless
 
 ---
